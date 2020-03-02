@@ -1,0 +1,13 @@
+.lista{
+  margin: 1em 20%;
+
+}
+
+@media(max-width: 600px){
+.lista{
+  margin: 1em 0;
+}
+}
+#addpoema, div{
+  color: black; 
+}
